@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Utility">
+      <HintPath>..\..\..\_Util\PrivateUtilProject\ClassLibrary1\bin\Debug\netstandard2.0\Utility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

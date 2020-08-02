@@ -1,4 +1,5 @@
 ﻿using System;
+using Utility;
 
 namespace DataStructsAnAlgPract
 {
@@ -6,7 +7,21 @@ namespace DataStructsAnAlgPract
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string x, y;
+
+            Console.WriteLine("Greetings...");
+            x = Console.ReadLine();
+            Console.WriteLine("Password : ");
+            y = Console.ReadLine();
+
+            if (Authorizor.Login(x,y))
+            {
+                Console.WriteLine("\n\n Welcome Back Yash");
+                Console.WriteLine(x.GetHashCode());
+            }else
+            {
+                Console.WriteLine("Error.");
+            }
         }
     }
 }

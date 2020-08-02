@@ -1,0 +1,16 @@
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\DataStructsAnAlgPract.exe
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\DataStructsAnAlgPract.deps.json
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\DataStructsAnAlgPract.runtimeconfig.json
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\DataStructsAnAlgPract.runtimeconfig.dev.json
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\DataStructsAnAlgPract.dll
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\DataStructsAnAlgPract.pdb
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.csprojAssemblyReference.cache
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.AssemblyInfoInputs.cache
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.AssemblyInfo.cs
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.csproj.CoreCompileInputs.cache
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.dll
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.pdb
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.genruntimeconfig.cache
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\yasha\Desktop\Code\2020\Practice\DataStructsAnAlgPract\DataStructsAnAlgPract\obj\Debug\netcoreapp3.1\DataStructsAnAlgPract.csproj.CopyComplete
